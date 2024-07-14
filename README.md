@@ -1,8 +1,10 @@
-# React + Vite
+### Apple IPhone Clone with 3D Model and GSAP Animations
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This repository showcases a clone of Apple's interface using React with Vite as the build tool. The highlight of this project is the integration of a 3D model and sophisticated animations powered by GSAP (GreenSock Animation Platform). Experience smooth transitions and interactive elements reminiscent of Apple's sleek design philosophy, all built with modern web technologies.
 
-Currently, two official plugins are available:
+**Features:**
+- **3D Model Integration:** Explore a detailed 3D representation of Apple products within the interface.
+- **GSAP Animations:** Enjoy fluid animations and transitions, enhancing user interaction and visual appeal.
+- **React Vite:** Utilize Vite's fast build times and modern JavaScript tooling for efficient development.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Explore the future of web interfaces with our Apple clone repository.
