@@ -5,6 +5,7 @@ This repository showcases a clone of Apple's interface using React with Vite as 
 **Features:**
 - **3D Model Integration:** Explore a detailed 3D representation of Apple products within the interface.
 - **GSAP Animations:** Enjoy fluid animations and transitions, enhancing user interaction and visual appeal.
-- **React Vite:** Utilize Vite's fast build times and modern JavaScript tooling for efficient development.
+- **Responsive Design:** The website is fully responsive, ensuring a seamless experience across devices.
+- **Tailwind CSS:** Utilizes Tailwind CSS for streamlined and customizable styling.
 
 Explore the future of web interfaces with our Apple clone repository.
